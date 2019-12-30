@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Game_Main_Restart.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Game_Options_Menu.unity
+    guid: 089247a370eb24e429c0601c3bdb4a55
+  - enabled: 1
+    path: Assets/Scenes/Game_Levels.unity
+    guid: 227dd35aa10ed884690524b1b030d1fd
+  - enabled: 1
+    path: Assets/Scenes/Control.unity
+    guid: acf1e9ec1fcff864bab50a7b1ff7d3f7
+  - enabled: 1
+    path: Assets/Scenes/all level/level1.unity
+    guid: ca052c0a1503a5d4a833f1784e258adc
+  - enabled: 1
+    path: Assets/Scenes/all level/level2.unity
+    guid: 249b6efb2fb4bf04ebae33f71173a3ad
+  - enabled: 1
+    path: Assets/Scenes/all level/level3.unity
+    guid: 3824da9c9b79ce94ba504824e97a899d
+  - enabled: 1
+    path: Assets/Scenes/all level/level4.unity
+    guid: 744449243176d704e8485e0fd345ad54
+  - enabled: 1
+    path: Assets/Scenes/all level/level5.unity
+    guid: 45a55ceabbde8114285bc75af2bfb765
+  - enabled: 1
+    path: Assets/Scenes/all level/level6.unity
+    guid: 59d65687970e1424888f12ea1244a890
+  - enabled: 1
+    path: Assets/Scenes/all level/level7.unity
+    guid: 671d05b277484ba4c8a3b43b556c6281
+  - enabled: 1
+    path: Assets/Scenes/all level/level8.unity
+    guid: f8a312e1c3652464fb943f67710d7340
+  - enabled: 1
+    path: Assets/Scenes/all level/level9.unity
+    guid: eabfe901ad7ca1143b7f0f1424381d9e
+  - enabled: 1
+    path: Assets/Scenes/loading/loading1.unity
+    guid: 4b0a407c9da933f40a2c491979e7c384
+  - enabled: 1
+    path: Assets/Scenes/loading/loading2.unity
+    guid: 9ab01dd597535b1448e8a0b2e87622b6
+  - enabled: 1
+    path: Assets/Scenes/loading/loading3.unity
+    guid: 6b7226799f6af7940a0c4036735f9c62
+  - enabled: 1
+    path: Assets/Scenes/loading/loading4.unity
+    guid: f0c726f1b00e2fb40933b77b910b2ad9
+  - enabled: 1
+    path: Assets/Scenes/loading/loading5.unity
+    guid: 9b770de392da0ea42b0257260b42fb75
+  - enabled: 1
+    path: Assets/Scenes/loading/loading6.unity
+    guid: dbb30b4184cc696448f4a32d172c6cae
+  - enabled: 1
+    path: Assets/Scenes/loading/loading7.unity
+    guid: 419f60c7d0936d842a3c5fcfdff9c2ac
+  - enabled: 1
+    path: Assets/Scenes/loading/loading8.unity
+    guid: d96af1fa092483244bd12d75458b63e1
+  - enabled: 1
+    path: Assets/Scenes/loading/loading9.unity
+    guid: ce73a06c6f1294445b9be8fd8db2e3f5
+  m_configObjects: {}
