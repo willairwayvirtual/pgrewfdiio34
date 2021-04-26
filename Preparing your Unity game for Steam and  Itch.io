@@ -1,4 +1,4 @@
-Preparing your Unity game for Steam -
+Preparing your Unity game for Steam  and  Itch.io
 https://youtu.be/FCZ4dOEcBp0
 https://youtu.be/o5-Y-5Dtg_c?t=396
 https://youtu.be/rK5Fr5hhslM
